@@ -1,0 +1,15 @@
+dstport,protocol,tag
+443,tcp,https
+23,tcp,telnet
+25,tcp,smtp
+110,tcp,pop3
+993,tcp,imaps
+143,tcp,imap
+80,tcp,www-http
+80,tcp,www-http
+443,tcp,https
+23,tcp,telnet
+25,tcp,smtp
+110,tcp,pop3
+993,tcp,imaps
+143,tcp,imap
